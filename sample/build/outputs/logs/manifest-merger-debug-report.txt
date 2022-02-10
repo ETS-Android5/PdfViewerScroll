@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+MERGED from [:android-pdf-viewer] C:\Libraries\AndroidPdfViewer\android-pdf-viewer\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7dacb420717e8054ac7421baf942b431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\c800d9eaa9c03e2417ef398bf1d5210c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\d38d2d6f390e44804150cdd0ca382885\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\9563866a8b2cbefaf045da797d4d5738\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\8c007f994c7bf5a72b62e36b708e6209\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\bb0ae4d68667b958183790d644b56d91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\6866be66c128fa051e7ef4f8f944e793\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\fe11c62b7f8440aa8f7c9690b4473625\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3b2ede64e8098aade713b68c177ddc1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\6b0f67c8cb01f4de0922e6e46b608562\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3f828a6f0d2148765e9a599128a0698a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\11e1af48d97b7fd5542362406348d183\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\dd2f993c2cb501d00fcab312510d3585\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\03cedda8cc5572c9738fbdc7cc1d41ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\e16f50bc9cd9a8ed882cc5ae640a6bdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7fd682ca786b253a0295e7a9b6ba8d50\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0fff87ba879f77b4d823183b819d88e2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\79138cfee7fcb82803a236d1a211b1b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0b288a8d843e550862a5d2e1c6738669\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0290e5908a50f9aeff644f47e6104b2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3708fe061ef3f590e69d6a07184a85a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\2d04d3adb90245465643a45abfeee6b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\a1dff218e3b80e8f2e1692d7f9dd4cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\ff06a2b9e49be77e6917f960fa7eb4b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0df03adcc0020583e1cdb5c05c2535aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\37a3718b8ca7e7915e46dd93f100c026\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\97b98aa0a8057f4ef41c384b33807c03\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+	package
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:2:2-38
+	android:versionName
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:1-20:12
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:4:22-77
+application
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:6:2-18:16
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7fd682ca786b253a0295e7a9b6ba8d50\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7fd682ca786b253a0295e7a9b6ba8d50\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0fff87ba879f77b4d823183b819d88e2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0fff87ba879f77b4d823183b819d88e2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7fd682ca786b253a0295e7a9b6ba8d50\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:8:3-35
+	android:icon
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:7:3-39
+	android:theme
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:9:3-47
+activity#com.github.barteksc.sample.PDFViewActivity_
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:10:3-17:14
+	android:label
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:12:4-36
+	android:name
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:11:4-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:13:4-16:20
+action#android.intent.action.MAIN
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:14:5-57
+	android:name
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml:15:15-62
+uses-sdk
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+MERGED from [:android-pdf-viewer] C:\Libraries\AndroidPdfViewer\android-pdf-viewer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:android-pdf-viewer] C:\Libraries\AndroidPdfViewer\android-pdf-viewer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7dacb420717e8054ac7421baf942b431\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7dacb420717e8054ac7421baf942b431\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\c800d9eaa9c03e2417ef398bf1d5210c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.9.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\c800d9eaa9c03e2417ef398bf1d5210c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\d38d2d6f390e44804150cdd0ca382885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\d38d2d6f390e44804150cdd0ca382885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\9563866a8b2cbefaf045da797d4d5738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\9563866a8b2cbefaf045da797d4d5738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\8c007f994c7bf5a72b62e36b708e6209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\8c007f994c7bf5a72b62e36b708e6209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\bb0ae4d68667b958183790d644b56d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\bb0ae4d68667b958183790d644b56d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\6866be66c128fa051e7ef4f8f944e793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\6866be66c128fa051e7ef4f8f944e793\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\fe11c62b7f8440aa8f7c9690b4473625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\fe11c62b7f8440aa8f7c9690b4473625\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3b2ede64e8098aade713b68c177ddc1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3b2ede64e8098aade713b68c177ddc1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\6b0f67c8cb01f4de0922e6e46b608562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\6b0f67c8cb01f4de0922e6e46b608562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3f828a6f0d2148765e9a599128a0698a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3f828a6f0d2148765e9a599128a0698a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\11e1af48d97b7fd5542362406348d183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\11e1af48d97b7fd5542362406348d183\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\dd2f993c2cb501d00fcab312510d3585\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\dd2f993c2cb501d00fcab312510d3585\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\03cedda8cc5572c9738fbdc7cc1d41ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\03cedda8cc5572c9738fbdc7cc1d41ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\e16f50bc9cd9a8ed882cc5ae640a6bdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\e16f50bc9cd9a8ed882cc5ae640a6bdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7fd682ca786b253a0295e7a9b6ba8d50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\7fd682ca786b253a0295e7a9b6ba8d50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0fff87ba879f77b4d823183b819d88e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0fff87ba879f77b4d823183b819d88e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\79138cfee7fcb82803a236d1a211b1b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\79138cfee7fcb82803a236d1a211b1b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0b288a8d843e550862a5d2e1c6738669\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0b288a8d843e550862a5d2e1c6738669\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0290e5908a50f9aeff644f47e6104b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0290e5908a50f9aeff644f47e6104b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3708fe061ef3f590e69d6a07184a85a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\3708fe061ef3f590e69d6a07184a85a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\2d04d3adb90245465643a45abfeee6b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\2d04d3adb90245465643a45abfeee6b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\a1dff218e3b80e8f2e1692d7f9dd4cdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\a1dff218e3b80e8f2e1692d7f9dd4cdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\ff06a2b9e49be77e6917f960fa7eb4b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\ff06a2b9e49be77e6917f960fa7eb4b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0df03adcc0020583e1cdb5c05c2535aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\0df03adcc0020583e1cdb5c05c2535aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\37a3718b8ca7e7915e46dd93f100c026\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\37a3718b8ca7e7915e46dd93f100c026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\97b98aa0a8057f4ef41c384b33807c03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\97b98aa0a8057f4ef41c384b33807c03\AndroidManifest.xml:20:5-44
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Libraries\AndroidPdfViewer\sample\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\057750350b1782253946174ae7865818\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\PieCyfer\.gradle\caches\transforms-2\files-2.1\4a74a07166abae2e7f241e2d3726c90e\AndroidManifest.xml:27:13-51
